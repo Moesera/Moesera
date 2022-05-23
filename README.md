@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello and Welcome to my github account 👋.
 
+🌱 Currently learning front-end development at <a href="https://www.noroff.no/en">this school</a>.
+
+📫 How to reach me ?<br>
+Accounts: <br>
+---><a href="https://www.linkedin.com/in/tony-erlandsen-a50b80239/">LinkedIn Account ⚡</a>
 <!--
 **Sigvel/Sigvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
