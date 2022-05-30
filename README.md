@@ -1,6 +1,6 @@
 ## Hello and Welcome to my github profile 👋.
 
-🌱 Currently learning front-end development at <a target="_blank" href="https://www.noroff.no/en">this school</a>.
+🌱 Currently learning front-end development at <a target="_blank" href="https://www.noroff.no/en">Noroff</a>.
 
 📫 How to reach me ?<br>
 Accounts: <br>
