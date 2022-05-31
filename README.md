@@ -1,11 +1,8 @@
 ## Hello and Welcome to my github profile 👋.
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-
 #### 🌱 Currently learning front-end development at <a target="_blank" href="https://www.noroff.no/en">Noroff</a>.
 
-### 📫 How to reach me ?<br>
-#### Accounts:
-
+### Socials 📫<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-erlandsen-a50b80239/)   
          
 #### Programs and languages:
