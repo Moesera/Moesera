@@ -1,5 +1,6 @@
 ![Sigvel](https://user-images.githubusercontent.com/89355439/171200392-45168e36-e813-4b39-9734-72dcba5241da.png)
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+Currently studying as front-end Developer at Noroff School Of Technology.
 <br>
 <br>
 
