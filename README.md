@@ -1,11 +1,12 @@
-## Hello and Welcome to my github profile 👋.
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-#### 🌱 Currently learning front-end development at <a target="_blank" href="https://www.noroff.no/en">Noroff</a>.
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+<br>
+<br>
+<br>
 
-### Socials 📫<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Socials+📫&color=fff)](https://git.io/typing-svg)<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-erlandsen-a50b80239/)   
-         
-#### Programs and languages:
+<br>         
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Programs+and+Languages&color=fff)](https://git.io/typing-svg)<br>
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
