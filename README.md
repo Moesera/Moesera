@@ -6,8 +6,11 @@ Currently studying as front-end Developer at Noroff School Of Technology.
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Socials+📫&color=C2C2C2)](https://git.io/typing-svg)<br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-erlandsen-a50b80239/)
-<br>         
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-erlandsen-a50b80239/)<br>
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Content+Management+Systems&color=C2C2C2)](https://git.io/typing-svg)<br>
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)<br>
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tools+and+Languages&color=C2C2C2)](https://git.io/typing-svg)<br>
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
