@@ -7,6 +7,7 @@ Currently studying as front-end Developer at Noroff School Of Technology.
 <!-- Socials  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Socials+📫&color=C2C2C2)](https://git.io/typing-svg)<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-erlandsen-a50b80239/)<br>
+![Discord](https://img.shields.io/badge/Sigvel(~￣³￣)~6666-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<br>
 <br>
 <!-- Header Skills section -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tools+and+Languages&color=C2C2C2)](https://git.io/typing-svg)<br>
