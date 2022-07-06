@@ -8,10 +8,6 @@ Currently studying as front-end Developer at Noroff School Of Technology.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Socials+📫&color=C2C2C2)](https://git.io/typing-svg)<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-erlandsen-a50b80239/)<br>
 <br>
-<!-- Content Management Systems  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Content+Management+Systems&color=C2C2C2)](https://git.io/typing-svg)<br>
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)<br>
-<br>
 <!-- Header Skills section -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tools+and+Languages&color=C2C2C2)](https://git.io/typing-svg)<br>
 <!-- Tools  -->
@@ -25,7 +21,6 @@ Currently studying as front-end Developer at Noroff School Of Technology.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 <!-- Languages  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Languages&color=C2C2C2&size=18)](https://git.io/typing-svg)<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,6 +32,10 @@ Currently studying as front-end Developer at Noroff School Of Technology.
 <!-- Frameworks  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frameworks&color=C2C2C2&size=18)](https://git.io/typing-svg)<br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<!-- Content Management Systems  -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Content+Management+Systems&color=C2C2C2&size=18)](https://git.io/typing-svg)<br>
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)<br>
+<br>
 
 [![Sigvel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigvel&theme=blue-green)](https://github.com/Sigvel/github-readme-stats)
 
