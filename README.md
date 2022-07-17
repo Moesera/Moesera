@@ -20,20 +20,20 @@ Currently studying as front-end Developer at Noroff School Of Technology.
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)<br>
 ![PhpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 <!-- Languages  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Languages&color=C2C2C2&size=18)](https://git.io/typing-svg)<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- Libraries  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Libraries&color=C2C2C2&size=18)](https://git.io/typing-svg)<br>
+<!-- Libraries & Frameworks  -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Libraries+and+Frameworks&color=C2C2C2&size=18)](https://git.io/typing-svg)<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<!-- Frameworks  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frameworks&color=C2C2C2&size=18)](https://git.io/typing-svg)<br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<!-- OS -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Operating+Systems&color=C2C2C2&size=18)](https://git.io/typing-svg)<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <!-- Content Management Systems  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Content+Management+Systems&color=C2C2C2&size=18)](https://git.io/typing-svg)<br>
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)<br>
