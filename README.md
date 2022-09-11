@@ -3,41 +3,86 @@
 Currently studying as front-end Developer at Noroff School Of Technology.
 <br>
 <br>
-<!-- Socials  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Social&color=C2C2C2)](https://git.io/typing-svg)<br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-erlandsen-a50b80239/)
-![Discord](https://img.shields.io/badge/Sigvel(~￣³￣)~7777-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<br>
-<br>
 <!-- Header Skills section -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tools+and+Languages&color=C2C2C2)](https://git.io/typing-svg)<br>
-<!-- Tools  -->
-#### Tools<br>
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)<br>
-![PhpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-<!-- Languages  -->
-#### Languages<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- Libraries & Frameworks  -->
-#### Libraries and Frameworks<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<!-- OS -->
-#### OS<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<!-- Content Management Systems  -->
-#### CMS<br>
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)<br>
-<br>
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tools+and+Languages&color=C2C2C2)](https://git.io/typing-svg)<br> -->
+<!-- New skills Template -->
+## Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
+<table><tr><td valign="top" width="33%">
 
-[![Sigvel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigvel&theme=blue-green)](https://github.com/Sigvel/github-readme-stats)
 
-<!-- ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) -->
+
+### Frontend  
+<div>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a> 
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a> 
+  <a href="https://www.w3school.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a> 
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.adobe.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ai" />
+  </a>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sass" />
+  </a>
+  <a href="https://wordpress.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+  </a>
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div>   
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" />
+  </a>
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+<!--skills --->
+
+## Connect with me  
+<div align="center">
+<a href="https://sigvel-portfolio.netlify.app/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt="Portfolio" style="margin-bottom: 5px"/>
+</a>
+<a href="https://linkedin.com/in/sigvel" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<img src=https://img.shields.io/badge/Sigvel(~%EF%BF%A3%C2%B3%EF%BF%A3)~7777-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white style="max-width: 100%;">
+</div>  
+  
+
+<br/>  
