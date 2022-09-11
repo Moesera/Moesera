@@ -28,9 +28,6 @@ Currently studying as front-end Developer at Noroff School Of Technology.
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-  <a href="https://www.adobe.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ai" />
-  </a>
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=sass" />
   </a>
