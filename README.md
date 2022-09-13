@@ -31,9 +31,6 @@ Currently studying as front-end Developer at Noroff School Of Technology.
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=sass" />
   </a>
-  <a href="https://wordpress.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=wordpress" />
-  </a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -47,6 +44,9 @@ Currently studying as front-end Developer at Noroff School Of Technology.
   </a>
   <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://wordpress.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
 </div>
 
