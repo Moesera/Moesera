@@ -19,6 +19,9 @@ Currently studying as Front-End Developer at Noroff School Of Technology.
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a> 
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a> 
   <a href="https://www.w3school.com/css/" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" />
   </a> 
@@ -34,11 +37,12 @@ Currently studying as Front-End Developer at Noroff School Of Technology.
   <a href="https://wordpress.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jest" />
+  </a>
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div>   
@@ -56,7 +60,6 @@ Currently studying as Front-End Developer at Noroff School Of Technology.
 </td><td valign="top" width="33%">
 
 
-
 ### DevOps  
 <div>
   <a href="https://git-scm.com/" target="_blank">
@@ -65,13 +68,14 @@ Currently studying as Front-End Developer at Noroff School Of Technology.
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bash" />
   </a>
+  <a href="https://docs.github.com/en/actions" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" />
+  </a>
 </div>
 
 </td></tr></table>  
 
-<br/>  
-
-<!--skills --->
+<br/>
 
 ## Connect with me  
 <div align="center">
