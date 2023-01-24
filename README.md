@@ -85,8 +85,9 @@ Currently studying as Front-End Developer at Noroff School Of Technology.
 <a href="https://linkedin.com/in/sigvel" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://discord.com/users/214084196040179715">
 <img src=https://img.shields.io/badge/Sigvel(~%EF%BF%A3%C2%B3%EF%BF%A3)~7777-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white style="max-width: 100%;">
+</a>
 </div>  
   
-
 <br/>  
