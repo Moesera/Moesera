@@ -1,19 +1,14 @@
-<div>
-<img width="100%" src="https://github.com/Sigvel/Sigvel/assets/89355439/59cd323c-c229-455d-b6da-b0641c6fe3ad">
-</div>
+<img width=100% src="https://github.com/Sigvel/Sigvel/assets/89355439/59cd323c-c229-455d-b6da-b0641c6fe3ad" />
 
 
 
 
-Education
+## Education
 Higher proffesional degree in Front-end Development - 2 years.
 
 <br>
-<br>
-<!-- Header Skills section -->
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tools+and+Languages&color=C2C2C2)](https://git.io/typing-svg)<br> -->
 <!-- New skills Template -->
-## Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width=32px height=32px>
 <table><tr><td valign="top" width="33%">
 
 
