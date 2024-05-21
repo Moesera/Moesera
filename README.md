@@ -1,7 +1,6 @@
 <img width=100% src="https://github.com/Sigvel/Sigvel/assets/89355439/59cd323c-c229-455d-b6da-b0641c6fe3ad" />
 
-
-
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 ## Education
 Higher proffesional degree in Front-end Development - 2 years.
