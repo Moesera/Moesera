@@ -1,7 +1,8 @@
 <img width=100% src="https://github.com/Sigvel/Sigvel/assets/89355439/59cd323c-c229-455d-b6da-b0641c6fe3ad" />
 
-## Education
+## Experience
 Higher proffesional degree in Front-end Development - 2 years.
+Software Developer / Team lead - 1 year
 
 <br>
 <!-- New skills Template -->
@@ -78,7 +79,7 @@ Higher proffesional degree in Front-end Development - 2 years.
 
 ## Connect with me  
 <div align="center">
-<a href="https://portfolio-panda-dev.netlify.app/" target="_blank">
+<a href="https://moesera-dev.netlify.app/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt="Portfolio" style="margin-bottom: 5px"/>
 </a>
 <a href="https://linkedin.com/in/sigvel" target="_blank">
