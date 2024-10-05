@@ -1,7 +1,7 @@
 <img width=100% src="https://github.com/Sigvel/Sigvel/assets/89355439/59cd323c-c229-455d-b6da-b0641c6fe3ad" />
 
 ## Experience
-Higher proffesional degree in Front-end Development - 2 years.
+Higher proffesional degree in Front-end Development - 2 years.<br>
 Software Developer / Team lead - 1 year
 
 <br>
