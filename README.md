@@ -77,6 +77,7 @@ Software Developer / Team lead - 1 year
 
 <br/>
 
+<!-- 
 ## Connect with me  
 <div align="center">
 <a href="https://moesera-dev.netlify.app/" target="_blank">
@@ -89,5 +90,5 @@ Software Developer / Team lead - 1 year
 <img src=https://img.shields.io/badge/Pandä-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white style="max-width: 100%;">
 </a>
 </div>  
-  
+-->
 <br/>  
