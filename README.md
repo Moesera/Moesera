@@ -2,7 +2,7 @@
 
 ## Experience
 Higher proffesional degree in Front-end Development - 2 years.<br>
-Software Developer / Team lead - 1 year
+Software Developer / Team lead - 1.5 year
 
 <br>
 <!-- New skills Template -->
