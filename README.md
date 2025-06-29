@@ -37,15 +37,12 @@ Software Developer / Team lead - 1.5 year
   <a href="https://wordpress.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
-  <a href="https://jestjs.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jest" />
-  </a>
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Backend  
-<div>   
+<div>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
@@ -73,6 +70,14 @@ Software Developer / Team lead - 1.5 year
   </a>
 </div>
 
+</td><td valign="top" width="33%">
+
+### Other
+<div>
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jest" />
+  </a>
+</div>
 </td></tr></table>  
 
 <br/>
