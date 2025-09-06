@@ -5,7 +5,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div>
   <a href="https://reactjs.org/" target="_blank">
@@ -76,19 +75,5 @@
 </td></tr></table>  
 
 <br/>
-
-<!-- 
-## Connect with me  
-<div align="center">
-<a href="https://moesera-dev.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt="Portfolio" style="margin-bottom: 5px"/>
-</a>
-<a href="https://linkedin.com/in/sigvel" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.com/users/214084196040179715">
-<img src=https://img.shields.io/badge/Pandä-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white style="max-width: 100%;">
-</a>
-</div>  
--->
-<br/>  
+ 
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moesera&show_icons=true&theme=onedark)
