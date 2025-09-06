@@ -5,7 +5,7 @@
 <br>
 <!-- New skills Template -->
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width=32px height=32px>
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
   
 ### Frontend  
 <div>
@@ -35,7 +35,7 @@
   </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Backend  
 <div>
@@ -50,7 +50,7 @@
   </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 ### DevOps  
@@ -66,7 +66,7 @@
   </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Other
 <div>
