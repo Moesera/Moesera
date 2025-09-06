@@ -1,9 +1,4 @@
 <!-- <img width=100% src="https://github.com/Sigvel/Sigvel/assets/89355439/59cd323c-c229-455d-b6da-b0641c6fe3ad" /> -->
-
-## Experience
-Higher proffesional degree in Front-end Development - 2 years.<br>
-Software Developer / Team lead - 1.5 year
-
 <br>
 <!-- New skills Template -->
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width=32px height=32px>
