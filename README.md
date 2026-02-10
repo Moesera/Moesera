@@ -2,9 +2,6 @@
 <br>
 <br>
 <br>
-<br>
-<!-- New skills Template -->
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width=32px height=32px>
 <table><tr><td valign="top" width="25%">
   
 ### Frontend  
