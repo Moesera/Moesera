@@ -13,11 +13,10 @@ class Bio extends Developer {
 }
   
 ```
-
+___
 ```js
 fetchDeveloperSkills();
 ```
-
 <details>
 <summary>
   (click to expand)<br>
@@ -54,3 +53,5 @@ fetchDeveloperSkills();
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 </p>
 </details>
+
+___
