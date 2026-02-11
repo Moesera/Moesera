@@ -9,7 +9,7 @@ class Bio extends Developer {
   name     = 'Tony';
   title    = 'Frontend Engineer';
   company  = '';
-  location = 'Earth, Milky way';
+  location = 'Earth, Milky Way';
 }
   
 ```
