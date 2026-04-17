@@ -7,7 +7,7 @@ import Developer from 'moesera';
 
 class Bio extends Developer {
   name     = 'Tony';
-  title    = 'Developer';
+  title    = '';
   company  = '';
   location = 'Earth, Milky Way';
 }
