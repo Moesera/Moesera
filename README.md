@@ -14,9 +14,6 @@ class Bio extends Developer {
   
 ```
 ___
-```js
-fetchTechstack();
-```
 <details>
 <summary>
 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠 (click to expand)<br>
